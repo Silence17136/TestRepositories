@@ -26,6 +26,7 @@ public class City_cnActivity extends Activity {
 	private String province=null;
 	private String city=null;
 	private String district=null;
+	private String str="yb";
 	
 	
     public void onCreate(Bundle savedInstanceState) {
